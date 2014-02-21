@@ -1,3 +1,9 @@
+/*
+If you release pebblepet I would appreciate it if you keep this credit at the top of this file.
+But it's not required.
+Original Author: Doug - Nferno.org (dev@nferno.org) - 2013
+*/
+
 var vage;
 var vhappy;
 var vhealth;
@@ -7,8 +13,6 @@ var vtotal;
 var cver = 1.0;
 var tut;
 var petsync;
-
-//resetStats();
 
 Pebble.addEventListener("ready", function(e) {					  
 	loadGlobals();
