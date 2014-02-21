@@ -1,0 +1,37 @@
+{
+    "versionLabel": "1.0",
+    "uuid": "",
+    "appKeys": {
+        "totaltime": 96,
+        "timeleft": 95,
+        "level": 94,
+        "age": 91,
+        "health": 93
+        "happiness": 92
+    },
+    "longName": "PebblePet",
+    "versionCode": 1,
+    "capabilities": [
+        "location",
+        "configurable"
+    ],
+    "shortName": "PebblePet",
+    "companyName": "Nferno",
+    "watchapp": {
+        "watchface": false
+    },
+    "resources": {
+        "media": [
+            {
+                "type": "png",
+                "name": "IMAGE_EGG_UP",
+                "file": "images/up.png"
+            },
+            {
+                "type": "png",
+                "name": "IMAGE_EGG_DOWN",
+                "file": "images/down.png"
+            }
+        ]
+    }
+}
