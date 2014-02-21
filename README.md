@@ -33,6 +33,6 @@ Features I wanted to include that never made it:
   a) Feed pet or their happiness/health decreases
   
   
-This code will not run right from the branch. Requires removal of references of images and probably more.
+This code will not run right from the branch. Requires removal of references of images and setup the page.php with proper references in the code for domain.
 
-Sorry to dissapoint anyone who was waiting!
+Sorry to dissapoint anyone who was waiting and the sloppy code!
